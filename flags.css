@@ -1,0 +1,114 @@
+#flags{
+    display: inline block;
+    display: flex;
+}
+#white {
+background-color: rgb(17, 17, 17);
+height: 150px;
+width: 300px;
+border: 1px solid black;
+display: inline block;
+}
+#red {
+    background-color: red;
+height:50px ;
+width: 300px;
+}
+#black {
+    background-color: rgb(245, 242, 242);
+height:50px ;
+width: 300px;
+}
+
+#f2 {
+    background-color: rgb(132, 50, 226);
+    height: 150px;
+    width: 300px;
+    border: 1px solid rgb(0, 0, 0);
+    position: absolute;
+    margin-left: 350px;
+    }
+    #blue {
+        background-color: black;
+        height: 40px;
+        width: 286px;
+        position: absolute;
+        margin-top: 50px;
+        border: 7px solid rgb(252, 250, 250);
+    }
+    #name {
+     display: flex;
+    }
+    #a {
+        margin-left: 100px;
+    }
+    #b {
+   margin-left: 250px;
+    }
+    #c {
+        margin-left: 230px;
+         }
+    #kashmir {
+        position: absolute;
+        margin-left: 700px;
+        height: 150px;
+        width: 300px;
+        background-color: green;
+    }
+    #moon {
+        color: white;
+        position: absolute;
+        margin-left:200px;
+        
+    }
+    #star {
+        color: white;
+        font-size: larger;
+        margin-left: 20px;
+    }
+    #yello {
+        background-color: rgb(255, 238, 0);
+        height:60px ;
+        width: 150px;
+    }
+    #yms {
+        display: flex;
+    }
+    #m {
+        height: 70px;
+        width: 60px;
+    }
+    #n {
+        height: 20px;
+        width: 20px;
+        position: relative;
+        margin-bottom: 35px;
+        margin-right: 20px;
+    }
+    .river {
+      background-color: white;
+      height: 10px;
+      margin-top: 10px;
+    }
+    .r2 {
+        background-color: white;
+        height: 10px;
+        margin-top: 10px;
+      }
+      .r3 {
+        background-color: white;
+        height: 10px;
+        margin-top: 10px;
+      }
+      .r4 {
+        background-color: white;
+        height: 10px;
+        margin-top: 10px;
+      }
+      h1 {
+    margin-left: 500px;
+      }
+      #n {
+        position: relative;
+        right: 30px;
+      }
